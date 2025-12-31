@@ -78,63 +78,117 @@ I’m a **passionate Software Developer & AI/ML enthusiast** focused on building
 - Google Cloud Platform
 - Local & cloud deployments
 
----
+<!-- ===================== PROJECTS SECTION ===================== -->
 
-## 🚀 Featured Projects
+<h2>🚀 Featured Projects</h2>
 
-### 🧠 **AI Appointment Booking Agent (WhatsApp)**
+<!-- PROJECT CARD 1 -->
+<div style="border:1px solid #30363d;border-radius:10px;padding:16px;margin-bottom:20px;transition:all 0.3s ease;"
+     onmouseover="this.style.transform='scale(1.02)';this.style.boxShadow='0 8px 24px rgba(88,166,255,0.25)'"
+     onmouseout="this.style.transform='scale(1)';this.style.boxShadow='none'">
+
+<table width="100%">
+<tr>
+<td width="65%" valign="top">
+
+### 🧠 AI Appointment Booking Agent (WhatsApp)
 📌 *AI Agent | n8n | Google Sheets | Stripe | WhatsApp API*
 
-<p align="center">
-  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHJ2MGIzbDNud2Rwa2E0aXZiNXB0emY1NWEzbXBweDh3dXE4Y292MiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Umm4JQJxP5gn4zT9DX/giphy.gif" width="200"/>
-</p>
+- AI-powered WhatsApp chatbot for booking, rescheduling & cancellation  
+- Online payments via Stripe  
+- Automated reminders & refunds  
+- Fully no-code + AI workflow  
 
-- AI-powered WhatsApp chatbot for booking, rescheduling & cancellation
-- Online payments via Stripe
-- Automated reminders & refunds
-- Fully no-code + AI workflow
+</td>
+<td width="35%" align="center">
 
----
+<img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHJ2MGIzbDNud2Rwa2E0aXZiNXB0emY1NWEzbXBweDh3dXE4Y292MiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Umm4JQJxP5gn4zT9DX/giphy.gif" width="220"/>
 
-### 🛡️ **SQL Injection Detection & Prevention System**
+</td>
+</tr>
+</table>
+</div>
+
+<!-- PROJECT CARD 2 -->
+<div style="border:1px solid #30363d;border-radius:10px;padding:16px;margin-bottom:20px;transition:all 0.3s ease;"
+     onmouseover="this.style.transform='scale(1.02)';this.style.boxShadow='0 8px 24px rgba(255,99,132,0.25)'"
+     onmouseout="this.style.transform='scale(1)';this.style.boxShadow='none'">
+
+<table width="100%">
+<tr>
+<td width="65%" valign="top">
+
+### 🛡️ SQL Injection Detection & Prevention System
 📌 *PHP | Security | Data Validation*
 
-<p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMTZ1cG9mcWRhN29zYWdhdXBydjZ0bnVmdTlmdzBlaW83Y2lpN2JnYSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/vISmwpBJUNYzukTnVx/giphy.gif" width="200"/>
-</p>
+- Custom regex-based SQLIA detection  
+- Prevented malicious queries by ~80%  
+- Strong focus on database security & validation  
 
-- Custom regex-based SQLIA detection
-- Prevented malicious queries by ~80%
-- Strong focus on database security & validation
+</td>
+<td width="35%" align="center">
 
----
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMTZ1cG9mcWRhN29zYWdhdXBydjZ0bnVmdTlmdzBlaW83Y2lpN2JnYSZlcD12MV9pbnRlcm5hbF9naWZzX3NlYXJjaCZjdD1n/vISmwpBJUNYzukTnVx/giphy.gif" width="220"/>
 
-### 🧘 **YOGAVRITA – Smart Yoga Practice App**
+</td>
+</tr>
+</table>
+</div>
+
+<!-- PROJECT CARD 3 -->
+<div style="border:1px solid #30363d;border-radius:10px;padding:16px;margin-bottom:20px;transition:all 0.3s ease;"
+     onmouseover="this.style.transform='scale(1.02)';this.style.boxShadow='0 8px 24px rgba(72,187,120,0.25)'"
+     onmouseout="this.style.transform='scale(1)';this.style.boxShadow='none'">
+
+<table width="100%">
+<tr>
+<td width="65%" valign="top">
+
+### 🧘 YOGAVRITA – Smart Yoga Practice App
 📌 *React | TypeScript | LocalStorage | UI Logic*
 
-<p align="center">
-  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExemptbHVxd3dpb2loaTRldGd6eHY1ZmNtMjVmMDV6cDBuY2poMXZobSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/DBbPjLMsQPruMkDcrd/giphy.gif" width="200"/>
-</p>
+- Daily guided yoga sequences  
+- Streak tracking & timers  
+- Breathing animations & clean UI  
+- Strong logic & state management  
 
-- Daily guided yoga sequences
-- Streak tracking & timers
-- Breathing animations & clean UI
-- Strong logic + state management
+</td>
+<td width="35%" align="center">
 
----
+<img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExemptbHVxd3dpb2loaTRldGd6eHY1ZmNtMjVmMDV6cDBuY2poMXZobSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/DBbPjLMsQPruMkDcrd/giphy.gif" width="220"/>
 
-### 🐍 **AI-Powered Retro Snake Game**
+</td>
+</tr>
+</table>
+</div>
+
+<!-- PROJECT CARD 4 -->
+<div style="border:1px solid #30363d;border-radius:10px;padding:16px;margin-bottom:20px;transition:all 0.3s ease;"
+     onmouseover="this.style.transform='scale(1.02)';this.style.boxShadow='0 8px 24px rgba(255,193,7,0.25)'"
+     onmouseout="this.style.transform='scale(1)';this.style.boxShadow='none'">
+
+<table width="100%">
+<tr>
+<td width="65%" valign="top">
+
+### 🐍 AI-Powered Retro Snake Game
 📌 *Game Logic | Pathfinding | AI Agents*
 
-<p align="center">
-  <img src="https://media1.tenor.com/m/nSGiQJHgbjkAAAAd/nokia-snake-game.gif" width="200"/>
-</p>
+- Retro Snake with modern AI twist  
+- AI-controlled food using A* pathfinding  
+- Dynamic difficulty & intelligent agents  
 
-- Retro Snake with modern AI twist
-- AI-controlled food using A* pathfinding
-- Dynamic difficulty & game state management
+</td>
+<td width="35%" align="center">
 
----
+<img src="https://media1.tenor.com/m/nSGiQJHgbjkAAAAd/nokia-snake-game.gif" width="220"/>
+
+</td>
+</tr>
+</table>
+</div>
+
+<!-- ===================== END PROJECTS ===================== -->
 
 ## 📜 Certifications
 
