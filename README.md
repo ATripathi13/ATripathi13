@@ -23,7 +23,7 @@ I’m a **passionate Software Developer & AI/ML enthusiast** focused on building
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ATripathi13&show_icons=true&theme=tokyonight&hide_border=true" height="165"/>
+  <!-- <img src="https://github-readme-stats.vercel.app/api?username=ATripathi13&show_icons=true&theme=tokyonight&hide_border=true" height="165"/> -->
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ATripathi13&theme=tokyonight&hide_border=true" height="165"/>
 </p>
 
