@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Akshat Tripathi 🚀  
 ### Python | Backend | AI/ML | Full-Stack Developer | Agentic AI
-> 🚀 Building scalable backend systems & intelligent AI agents | Python • AI • Automation
+> 🚀 Building scalable backend systems & intelligent AI agents | Python • AI • Automation | LLM
 
 <!-- <p align="center">
   <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="200"/>
